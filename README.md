@@ -2,7 +2,7 @@
 
 A beautiful, secure, and easy-to-use password generator built with **customtkinter**.
 
-![SecurePass](https://i.imgur.com/placeholder.png) <!-- Add a screenshot later -->
+![SecurePass]([https://i.imgur.com/placeholder.png](https://i.imgur.com/ZFulVl8.png))
 
 ### Features
 - Real-time strength indicator
@@ -24,4 +24,5 @@ pip install -r requirements.txt
 
 # 3. Run it
 python app.py
+
 
