@@ -173,7 +173,7 @@ footer = ctk.CTkLabel(
     cursor="hand2"
 )
 footer.place(relx=1.0, rely=1.0, anchor="se", x=-30, y=-25)
-footer.bind("<Button-1>", lambda e: webbrowser.open("https://github.com/YOURUSERNAME/SecurePass"))
+footer.bind("<Button-1>", lambda e: webbrowser.open("https://github.com/Virenvooo/password-generator/tree/main"))
 
 # Start
 generate()
