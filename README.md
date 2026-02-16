@@ -23,6 +23,3 @@ pip install -r requirements.txt
 
 # 3. Run it
 python app.py
-
-
-
